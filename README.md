@@ -9,4 +9,5 @@ make
 cat /proc/bus/input/devices
 //4.excute game
 sudo ./rhythm /dev/input/eventX //(X = event handler number) 
-//but music files, note files be prepared as "Prototype.mp3", "sample.txt"
+//but music files, note files be prepared
+//as "Prototype.mp3", "sample.txt"
